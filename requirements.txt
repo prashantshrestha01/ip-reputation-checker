@@ -1,0 +1,4 @@
+# No third-party dependencies.
+# This project uses only the Python standard library (ipaddress, urllib,
+# argparse, json, pathlib). Nothing to install; requirements.txt is kept
+# so the dependency story is explicit.
