@@ -112,4 +112,4 @@ cases.
 - Building the offline mode first made the tests fast and deterministic,
   and it doubles as a demo for anyone without a key or a connection.
 
-*Built by Prashant Shrestha · Mississauga, ON 🇨🇦 · [LinkedIn](https://www.linkedin.com/in/cto-prashant/)*
+*Built by Prashant Shrestha · Mississauga, ON 🇨🇦 · [LinkedIn](https://www.linkedin.com/in/prashant-me/)*
